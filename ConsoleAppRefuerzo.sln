@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppRefuerzo", "ConsoleAppRefuerzo\ConsoleAppRefuerzo.csproj", "{F1511411-425B-41FA-B5FD-233800BD3E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppOrdenarFiltrar", "ConsoleAppOrdenarFiltrar\ConsoleAppOrdenarFiltrar.csproj", "{7AEFA28F-DAB5-4A4C-8130-031D857DA975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1511411-425B-41FA-B5FD-233800BD3E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1511411-425B-41FA-B5FD-233800BD3E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1511411-425B-41FA-B5FD-233800BD3E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1511411-425B-41FA-B5FD-233800BD3E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AEFA28F-DAB5-4A4C-8130-031D857DA975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEFA28F-DAB5-4A4C-8130-031D857DA975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEFA28F-DAB5-4A4C-8130-031D857DA975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEFA28F-DAB5-4A4C-8130-031D857DA975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F873D10C-A31F-4A46-AB79-4E7174FE3FEA}
+	EndGlobalSection
+EndGlobal
